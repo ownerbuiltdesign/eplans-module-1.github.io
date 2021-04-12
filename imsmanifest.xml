@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">Module 1_1104</langstring>
+          <langstring xml:lang="x-none">Module 1</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="Module_1_1104_ORG">
-    <organization identifier="Module_1_1104_ORG">
-      <title>Module 1_1104</title>
+  <organizations default="Module_1_ORG">
+    <organization identifier="Module_1_ORG">
+      <title>Module 1</title>
       <item identifier="glossary_template_SCO" isvisible="true" identifierref="__66PwNSup46X_course_id_RES">
-        <title>Module 1_1104</title>
+        <title>Module 1</title>
       </item>
     </organization>
   </organizations>
@@ -117,7 +117,7 @@
       <file href="mobile/6I4YPDiWBXs_DX120_DY120_CX50_CY60.png" />
       <file href="mobile/6YZhtLgrsEQ_DX120_DY120_CX50_CY60.png" />
       <file href="meta.xml" />
-      <file href="mobile/5dvDTXDGWqF.png" />
+      <file href="mobile/5inRzCB9usC.png" />
       <file href="story_content/user.js" />
       <file href="html5/data/css/output.min.css" />
       <file href="html5/data/js/5i43jzYrog4.js" />
